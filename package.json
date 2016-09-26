@@ -1,0 +1,16 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && ava -v"
+  },
+  "keywords": [],
+  "author": "Phung Eric <superphung44@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "0.16.0",
+    "standard": "8.1.0"
+  }
+}
